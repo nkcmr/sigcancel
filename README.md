@@ -1,0 +1,1 @@
+Documentation: https://pkg.go.dev/code.nkcmr.net/sigcancel
